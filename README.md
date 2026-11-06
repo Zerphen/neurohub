@@ -4,7 +4,9 @@
 Написал промпт, нажал кнопку — картинка готова. Движок [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 работает локально на твоей видеокарте, промпты никуда не отправляются.
 
-ПРОМТ НУЖНО ПИСАТЬ НА АНГЛИЙСКОМ!!!
+**ПРОМТ НУЖНО ПИСАТЬ НА АНГЛИЙСКОМ!!!**
+**ПРОМТ НУЖНО ПИСАТЬ НА АНГЛИЙСКОМ!!!**
+**ПРОМТ НУЖНО ПИСАТЬ НА АНГЛИЙСКОМ!!!**
 
 [![Скачать для Windows](https://img.shields.io/badge/⬇️_Скачать-для_Windows-2ea44f?style=for-the-badge)](https://github.com/Zerphen/neurohub/releases/latest)
 [![Telegram](https://img.shields.io/badge/✈️_Telegram-@NeuroHubProBot-229ED9?style=for-the-badge)](https://t.me/NeuroHubProBot)
